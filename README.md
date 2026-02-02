@@ -31,11 +31,11 @@ Computer Systems student and Software Engineering Intern. I focus on building ef
 
 ### 📊 GitHub Stats
 
-![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdilshan&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdilshan&layout=compact&theme=transparent)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xdilshan&theme=dracula)
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/randika-dilshan-perera](https://www.linkedin.com/in/randika-dilshan-perera/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randika-dilshan-perera/)
 <!-- - **Portfolio:** [your-website.com](https://your-website.com) -->
