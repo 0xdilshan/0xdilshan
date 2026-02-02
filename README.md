@@ -1,16 +1,41 @@
-## Hi there 👋
+# 0x0 | Hi, I'm Dilshan 👋
 
-<!--
-**0xdilshan/0xdilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Systems student and Software Engineering Intern. I focus on building efficient systems and clean code.
 
-Here are some ideas to get you started:
+- 🎓 **Education:** BSc Computer Systems Student @ Turība University
+- 💼 **Current Role:** Software Engineering Intern
+- 📍 **Location:** Riga, Latvia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** JavaScript, Python, SQL
+- **Frontend:** React, HTML/CSS
+- **Backend/DB:** Node.js, PostgreSQL, MySQL
+- **Tools:** Git, Docker, Linux
+
+---
+
+<!-- ### 🚀 Featured Projects
+
+#### [Project Name 1](link-to-repo)
+*Brief description of a JavaScript/Python project you built. Mention the core problem it solves.*
+`JavaScript` `Node.js` `SQL`
+
+#### [Project Name 2](link-to-repo)
+*Brief description of a Python automation script or data project.*
+`Python` `Automation` -->
+
+---
+
+### 📊 GitHub Stats
+
+![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdilshan&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdilshan&layout=compact&theme=transparent)
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/randika-dilshan-perera](https://www.linkedin.com/in/randika-dilshan-perera/)
+<!-- - **Portfolio:** [your-website.com](https://your-website.com) -->
