@@ -72,7 +72,7 @@ FOCUS AREAS
 ├── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="20" align="top">  Multilingual transcription + --translate to English
 ├── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="20" align="top">  Batch processing — glob patterns accepted
 ├── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" align="top">  Importable library API for Python projects
-└── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="20" align="top">   Google Colab notebook with Drive UI</code></pre>
+└── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="20" align="top">  Google Colab notebook with Drive UI</code></pre>
 
 ```bash
 pip install vid2cc-ai
