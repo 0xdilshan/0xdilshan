@@ -12,7 +12,7 @@ $ cat mission.txt
 > ship(clean_code)
 ```
 
-<img src="https://komarev.com/ghpvc/?username=0xdilshan&label=PROFILE+VIEWS&color=00ffff&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=0xdilshan&label=PROFILE+VIEWS&color=3291c4&style=flat-square" />
 
 </div>
 
@@ -20,8 +20,9 @@ $ cat mission.txt
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="30" /> // PROFILE
 
-🎓 **BSc Computer Systems @ Turība University**  
-📍 **Riga, Latvia**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="24" align="top"> **BSc Computer Systems @ Turība University**
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" width="24" align="top"> **Riga, Latvia**
 
 ```
 FOCUS AREAS
@@ -56,10 +57,10 @@ FOCUS AREAS
 
 ### [vid2cc-AI](https://github.com/0xdilshan/vid2cc-AI) — `Python · AI/ML · CLI`
 
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-00ffff.svg?style=flat-square)](https://www.python.org/downloads/)
 [![PyPI version](https://img.shields.io/pypi/v/vid2cc-ai.svg?style=flat-square)](https://pypi.org/project/vid2cc-ai/)
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/vid2cc-ai?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/vid2cc-ai)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-00ffff.svg?style=flat-square)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-ff00ff.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-64cbff.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/0xdilshan/vid2cc-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/0xdilshan/vid2cc-AI/actions)
 
 > Local-first AI pipeline: video in → perfectly synced `.srt` subtitles out. No cloud, no data leaks. Powered by OpenAI Whisper + FFmpeg.
@@ -86,7 +87,7 @@ vid2cc *.mp4 --model large --embed --output-dir ./subs
 [![macOS](https://img.shields.io/badge/macOS-0f0f0f?style=flat-square&logo=apple&logoColor=white)](https://github.com/0xdilshan/Z-SHIFT)
 [![Startup](https://img.shields.io/badge/startup-<100ms-00ffff?style=flat-square)](https://github.com/0xdilshan/Z-SHIFT)
 [![Input Lag](https://img.shields.io/badge/input_lag-~6ms-39ff14?style=flat-square)](https://github.com/0xdilshan/Z-SHIFT)
-[![License: MIT](https://img.shields.io/badge/License-MIT-ff00ff.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-64cbff.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/0xdilshan/Z-SHIFT/actions/workflows/ci.yml/badge.svg)](https://github.com/0xdilshan/Z-SHIFT/actions)
 
 > One command. Stock Zsh → blazing-fast, Gruvbox-themed dev environment. Installs and wires everything automatically.
@@ -141,5 +142,5 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/0xdilshan/Z-SHIFT/main/i
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="28"> // CONNECT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=00ffff)](https://www.linkedin.com/in/randika-dilshan-perera/)
 [![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=ff00ff)](https://github.com/0xdilshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=00ffff)](https://www.linkedin.com/in/randika-dilshan-perera/)
