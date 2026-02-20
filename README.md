@@ -49,7 +49,6 @@ FOCUS AREAS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f0f?style=for-the-badge&logo=postgresql&logoColor=00ffff)
 ![Docker](https://img.shields.io/badge/Docker-0f0f0f?style=for-the-badge&logo=docker&logoColor=00bfff)
 ![Linux](https://img.shields.io/badge/Linux-0f0f0f?style=for-the-badge&logo=linux&logoColor=ff00ff)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-0f0f0f?style=for-the-badge&logo=ffmpeg&logoColor=00ff99)
 
 ---
 
@@ -87,6 +86,7 @@ vid2cc *.mp4 --model large --embed --output-dir ./subs
 [![macOS](https://img.shields.io/badge/macOS-0f0f0f?style=flat-square&logo=apple&logoColor=white)](https://github.com/0xdilshan/Z-SHIFT)
 [![Startup](https://img.shields.io/badge/startup-<100ms-00ffff?style=flat-square)](https://github.com/0xdilshan/Z-SHIFT)
 [![Input Lag](https://img.shields.io/badge/input_lag-~6ms-39ff14?style=flat-square)](https://github.com/0xdilshan/Z-SHIFT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-ff00ff.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/0xdilshan/Z-SHIFT/actions/workflows/ci.yml/badge.svg)](https://github.com/0xdilshan/Z-SHIFT/actions)
 
 > One command. Stock Zsh → blazing-fast, Gruvbox-themed dev environment. Installs and wires everything automatically.
@@ -141,5 +141,5 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/0xdilshan/Z-SHIFT/main/i
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="28"> // CONNECT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=00ffff)](https://www.linkedin.com/in/randika-dilshan-perera/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=00ffff)](https://www.linkedin.com/in/randika-dilshan-perera/)
 [![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=ff00ff)](https://github.com/0xdilshan)
